@@ -1,8 +1,7 @@
 terraform {
-  backend "s3" {
-    bucket = "terraform-class-atakan"
-    key    = "path/to/my/vpc"
-    region = "us-east-1"
-    # dynamodb_table ="terraorm-class"
+backend "s3" {
+bucket = "terraform-class-atakan"
+key = "tower/us-east-1/tools/virginia/tower.tfstate"
+region = "us-east-1"
   }
 }
