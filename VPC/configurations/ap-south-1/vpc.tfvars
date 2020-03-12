@@ -1,8 +1,8 @@
 
 # Provide a region for VPC
 
-environment                     =   "Hong Kong"
-region                          =   "ap-east-1"
+environment                     =   "Mumbai"
+region                          =   "ap-south-1"
 
 
 
