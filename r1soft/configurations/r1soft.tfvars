@@ -4,7 +4,7 @@ s3_folder_region                	=	"us-east-1"
 vpc_id		    	            	=	"vpc-0355a0bae5bea4f60"
 zone_id			                =	"Z3SQYR8C8NRSDK" 
 domain			                =	"atakanerdil.com"
-base_domain			        =	"atakanerdil.com"
+base_domain			            =	"atakanerdil.com"
 region 			                = 	"us-east-1"
 s3_folder_project               	=   	"r1soft"  
 
