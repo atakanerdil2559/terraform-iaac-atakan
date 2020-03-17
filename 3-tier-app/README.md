@@ -5,4 +5,4 @@
   terraform apply -var-file configuration/us-east-1/vpc.tfvars
   cd repo/3-tier-app
   terraform init 
-  terraform apply
+  terraform applys
